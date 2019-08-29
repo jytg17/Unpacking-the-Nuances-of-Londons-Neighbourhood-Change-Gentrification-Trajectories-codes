@@ -30,3 +30,4 @@ As a relatively extensive workflow was adopted, for legibility and coherence, th
   > 7b Model & Predict Gentrifying LSOAs
   >> Similar in procedure to the preceding stage, this notebook contained the codes that facilitated the model building process for modelling and predicting the gentrification typologies of gentrifying LSOAs. 
   
+The datasets used for enabling the data analysis is stored in the folder 'data'.
