@@ -1,0 +1,129 @@
+Variable,Category,Code
+avg_pop_churn,Pop. Churn,1
+Pop_size,Pop. & Demographics,2
+age_0_4,Pop. & Demographics,2
+age_5_7,Pop. & Demographics,2
+age_8_9,Pop. & Demographics,2
+age_10_14,Pop. & Demographics,2
+age_15,Pop. & Demographics,2
+age_16_17,Pop. & Demographics,2
+age_18_19,Pop. & Demographics,2
+age_20_24,Pop. & Demographics,2
+age_25_29,Pop. & Demographics,2
+age_30_44,Pop. & Demographics,2
+age_45_59,Pop. & Demographics,2
+age_60_64,Pop. & Demographics,2
+age_65_74,Pop. & Demographics,2
+age_75_84,Pop. & Demographics,2
+age_85_89,Pop. & Demographics,2
+age_90_over,Pop. & Demographics,2
+1-personHse_aged,Household,3
+1-personHse_other,Household,3
+1-family_aged,Household,3
+1-family_married_noKids,Household,3
+1-family_married_depKids,Household,3
+1-family_married_noDepKids,Household,3
+1-family_cohab_noKids,Household,3
+1-family_cohab_depKids,Household,3
+1-family_cohab_noDepKids,Household,3
+1-family_lone_depKids,Household,3
+1-family_lone_noDepKids,Household,3
+otherHse_depKids,Household,3
+otherHse_students,Household,3
+otherHse_aged,Household,3
+otherHse_other,Household,3
+avg_hse_size,Household,3
+born_UK,Place of Birth,4
+born_IRE,Place of Birth,4
+born_EU,Place of Birth,4
+born_restEUR,Place of Birth,4
+born_Africa,Place of Birth,4
+born_Asia,Place of Birth,4
+born_NthAm,Place of Birth,4
+born_SthAm,Place of Birth,4
+born_Oceania,Place of Birth,4
+eth_white,Ethnicity,5
+eth_mixed,Ethnicity,5
+eth_asian,Ethnicity,5
+eth_black,Ethnicity,5
+Christian,Religion,6
+Buddhist,Religion,6
+Hindu,Religion,6
+Jewish,Religion,6
+Muslim,Religion,6
+Sikh,Religion,6
+Oth_religion,Religion,6
+No_religion,Religion,6
+Religion_not_stated,Religion,6
+no_carsVans,Car Ownership,7
+1_carsVans,Car Ownership,7
+2_carsVans,Car Ownership,7
+3_carsVans,Car Ownership,7
+4_more_carsVans,Car Ownership,7
+Median_HsePrice_BaseYr,House Prices & Sales,8
+Median_HsePrice_EndYr,House Prices & Sales,8
+avg_hse_sales,House Prices & Sales,8
+Pop_density,Density & Dwelling,9
+dwellings_no,Density & Dwelling,9
+occup_rating,Density & Dwelling,9
+central_heating,Density & Dwelling,9
+avg_rooms,Density & Dwelling,9
+hse_detached,Density & Dwelling,9
+hse_semiDetached,Density & Dwelling,9
+hse_terraced,Density & Dwelling,9
+hse_flats,Density & Dwelling,9
+hse_converted_shared,Density & Dwelling,9
+hse_commercial,Density & Dwelling,9
+tenure_owned_outright,Tenure,10
+tenure_owned_mortLoan,Tenure,10
+tenure_shared,Tenure,10
+tenure_rent_council,Tenure,10
+tenure_rent_hsgAssc,Tenure,10
+tenure_rent_private,Tenure,10
+tenure_rent_other,Tenure,10
+hsehold_usual_residents,Tenure,10
+median_income,Income & Econ. Active,10
+economically_active,Income & Econ. Active,10
+Managers_directors_senior_occup,Occupation,11
+Professional_occup,Occupation,11
+Associate_professional_technical_occup,Occupation,11
+Administrative_secretarial_occup,Occupation,11
+Skilled_trades_occup,Occupation,11
+Caring_leisure_other_service_occup,Occupation,11
+Sales_customer_service_occup,Occupation,11
+Process plant_machine_operatives_occup,Occupation,11
+Elementary_occup,Occupation,11
+NS-SEC_1,NS-SEC,12
+NS-SEC_2,NS-SEC,12
+NS-SEC_3,NS-SEC,12
+NS-SEC_4,NS-SEC,12
+NS-SEC_5,NS-SEC,12
+NS-SEC_6,NS-SEC,12
+NS-SEC_7,NS-SEC,12
+NS-SEC_8,NS-SEC,12
+NS-SEC_noClass,NS-SEC,12
+Males_ptTime_less15hrs,Work Conditions,13
+Males_ptTime_16_30hrs,Work Conditions,13
+Males_FTime_31_48hrs,Work Conditions,13
+Males_FTime_more49hrs,Work Conditions,13
+Females_ptTime_less15hrs,Work Conditions,13
+Females_ptTime_16_30hrs,Work Conditions,13
+Females_FTime_31_48hrs,Work Conditions,13
+Females_FTime_more49hrs,Work Conditions,13
+No_qual,Qualifications,14
+Lv1_qual,Qualifications,14
+Lv2_qual,Qualifications,14
+Lv3_qual,Qualifications,14
+Lv4_qual,Qualifications,14
+Other_qual,Qualifications,14
+toWork_home,Travel to Work,15
+toWork_underground_light_rail,Travel to Work,15
+toWork_train,Travel to Work,15
+toWork_bus,Travel to Work,15
+toWork_motorcycle,Travel to Work,15
+toWork_carVan,Travel to Work,15
+toWork_passenger_carVan,Travel to Work,15
+toWork_taxi,Travel to Work,15
+toWork_bicycle,Travel to Work,15
+toWork_walk,Travel to Work,15
+toWork_other,Travel to Work,15
